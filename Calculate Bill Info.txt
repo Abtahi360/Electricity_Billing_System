@@ -1,0 +1,15 @@
+9010,Tahmid Al Muktadi,Bakirmour Rajshahi,230,January,1380,6 taka,Paid
+45765,Tazwar Rahman Ashir,Ishwardi,50,June,300,6 taka,Not paid
+74313,Dip Saha,Sahapur School,1000,July,6000,6 taka,Not paid
+56593,Ali Ibne Ibrahim,Badda,500,March,3000,6 taka,Paid
+50377,Safa khan,Badda,230,April,1380,6 taka,Not paid
+9010,Tahmid Al Muktadi,Bakirmour Rajshahi,214,February,1284,6 taka,Paid
+9010,Tahmid Al Muktadi,230,April,1380 taka,Paid
+38331,Ratul Sinha,Delli,513,October,3078,6 taka,Paid
+38331,Ratul Sinha,513,January,3078 taka,Paid
+89687,Farha Nabila,Dinajpur,378,August,2268,6 taka,Paid
+89687,Farha Nabila,Dinajpur,100,September,600,6 taka,Not paid
+26632,Anika,Dhaka,200,August,1200,6 taka,Paid
+26632,Anika,200,January,1200 taka,Paid
+90419,Suzit Datta,DHAKA,300,August,1800,6 taka,Not paid
+13570,Afran Niloy,Ishwardi,320,August,1920,6 taka,Paid
