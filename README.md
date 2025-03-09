@@ -35,9 +35,15 @@ A **Java-based desktop application** designed to automate and streamline electri
 
 ---
 
-## 🛠 **Technologies Used**
-- Java (Swing for UI)
-- Object-Oriented Programming (OOP)
+## 💾 **Data Handling**
+- All data (users, orders, books, payments) are stored in **text files**, not in a database.
+
+---
+
+## 🛠️ **Technologies Used**
+- Java (Swing for GUI)  
+- File I/O (Text file-based storage)  
+- OOP Concepts  
 
 ---
 
