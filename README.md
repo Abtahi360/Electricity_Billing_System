@@ -47,6 +47,11 @@ A **Java-based desktop application** designed to automate and streamline electri
 
 ---
 
+## Youtube Video
+Url: https://youtu.be/xjgRr8oeGkQ
+
+---
+
 ## 📷 **Screenshots**
 *![Image](https://github.com/user-attachments/assets/ff9eab0b-6614-49fa-b9b7-72b1696641fa)
 ![Image](https://github.com/user-attachments/assets/0099476c-4426-42bf-849a-8bb8ecf6a83c)
